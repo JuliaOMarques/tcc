@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/titulo.unity
+    guid: f0d86eec861efdc43befac3237d0712c
+  - enabled: 1
+    path: Assets/Cenas/SelecaoTema.unity
+    guid: 6c30ed63248d6ff4bbd74453c31776ff
+  - enabled: 1
+    path: "Assets/Cenas/Portugu\xEAs/ModoPort.unity"
+    guid: 0e550a2638bdc0144896932c341f1154
+  - enabled: 1
+    path: "Assets/Cenas/Portugu\xEAs/Port1.unity"
+    guid: 9dba48f94cf4f6c40af7a687eaa80df5
+  - enabled: 1
+    path: "Assets/Cenas/Portugu\xEAs/Port2.unity"
+    guid: 7002686d5caa05b499a5434e03d81c72
+  - enabled: 1
+    path: "Assets/Cenas/Portugu\xEAs/Port3.unity"
+    guid: 6a3d0efa9e26d9240b9bc67b362d1594
+  - enabled: 1
+    path: "Assets/Cenas/Portugu\xEAs/Port4.unity"
+    guid: ab93b638c2e6f71418b3290f8ce3c841
+  - enabled: 1
+    path: "Assets/Cenas/Portugu\xEAs/Port5.unity"
+    guid: 95fc8054321fd4b41837b5538907513d
+  - enabled: 1
+    path: "Assets/Cenas/Portugu\xEAs/Port6.unity"
+    guid: 4ab0858ce5a060744a79330fcd54feee
+  - enabled: 1
+    path: "Assets/Cenas/Portugu\xEAs/Port7.unity"
+    guid: 4b3b0bb558f1de24e89d99e93997140c
+  - enabled: 1
+    path: "Assets/Cenas/Portugu\xEAs/Port8.unity"
+    guid: b7a6a5b402bbc3a4aa1b0dc764315755
+  - enabled: 1
+    path: "Assets/Cenas/Portugu\xEAs/Port9.unity"
+    guid: e61c74f2b79632349842dd615c2cd260
+  - enabled: 1
+    path: "Assets/Cenas/Portugu\xEAs/NotaFinalPort.unity"
+    guid: 7521150f92e51f344b6f086238562518
+  - enabled: 1
+    path: Assets/Cenas/Matematica/ModoMat.unity
+    guid: 654a4da382a97214e9a3ad509af26011
+  - enabled: 1
+    path: Assets/Cenas/Matematica/Mat1.unity
+    guid: 5ade5eb32cc6e494db856f9326f63bf4
+  - enabled: 1
+    path: Assets/Cenas/Matematica/Mat2.unity
+    guid: 7adc4dba65766f346900c82e21ca022e
+  - enabled: 1
+    path: Assets/Cenas/Matematica/Mat3.unity
+    guid: 5735d5a6c1890ee4698cda680abb84c2
+  - enabled: 1
+    path: Assets/Cenas/Matematica/Mat4.unity
+    guid: 7dcfbd182ef306e429bc911bfdcc92b2
+  - enabled: 1
+    path: Assets/Cenas/Matematica/Mat5.unity
+    guid: e75d453f6bacaa945a41b23d7914d546
+  - enabled: 1
+    path: Assets/Cenas/Matematica/Mat6.unity
+    guid: 0de2a7a882e381b429946f097927311a
+  - enabled: 1
+    path: Assets/Cenas/Matematica/Mat7.unity
+    guid: 0c4a2652c6567bb48ada2e7ef3a19a69
+  - enabled: 1
+    path: Assets/Cenas/Matematica/Mat8.unity
+    guid: 0f943e1c95682d04e86b239cbc5251df
+  - enabled: 1
+    path: Assets/Cenas/Matematica/Mat9.unity
+    guid: 6675fe5254c42a845939edb7e097b279
+  - enabled: 1
+    path: Assets/Cenas/Matematica/notaFinalMat.unity
+    guid: 17f1cc594166d7f4897f3b45a8c73b46
+  m_configObjects: {}
